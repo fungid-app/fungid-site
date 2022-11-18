@@ -53,7 +53,7 @@ features:
 
   - title: Wikipedia Integration
     description: Learn more about a species with our offline Wikipedia integration.
-    fontawesome_icon_name: wikipedia-w
+    fontawesome_icon_name: wikipedia-w fab
 
   - title: Example Images
     description: View over 100+ examples of each species in the wild.
@@ -65,7 +65,7 @@ features:
 
   - title: Open Source
     description: FungID is open source and available on <a href="https://github.com/fungid-app/" _target="blank">GitHub</a>.
-    fontawesome_icon_name: github
+    fontawesome_icon_name: github fab
 
   - title: Offline Support
     description: Offline support for most features including image classification. (coming soon)
